@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+ul
+{
+    list-style-type: none;
+}
+a, a:hover{
+    text-decoration: none !important;
+}
+.font-za-link
+{
+    font-size: 22px;
+}
+#logo, #logo:hover
+{
+    font-family: "Great Vibes";
+    color: #a0a0a0;
+}
+.meniBorder 
+{
+    border-bottom: 2px solid #222222;
+}
+#kategorije 
+{
+    min-height: 400px;
+}
+#listaKategorija
+{
+    width: 80%;
+    text-align: center;
+}
+.duz
+{
+    width: 100%;
+}
+.knjige
+{
+    min-height: 400px;
+    border-left: 2px solid #222222;
+}
+.shad
+{
+    box-shadow: 5px 5px 3px #222222;
+}
+@media screen and (max-width: 575px)
+{
+    #kategorije{
+        border-bottom: 2px solid #222222;
+    }
+}
+.bg-boja
+{
+    background-color: #222222;
+}
+.duzina
+{
+    width:100% !important;
+}
+.margminus
+{
+    margin-top: -10px !important;
+}
+.last {
+    text-align-last: center;
+}
+.buttonRound
+{
+    border: 2px solid #ffc107;
+    background: transparent;
+    border-radius: 10px;
+}
+.borduraAP
+{
+    border-left: 2px solid #222222;
+    border-right: 2px solid #222222;
+}
+.borduraItem
+{
+    border-bottom: 2px solid #222222;
+}
+input[type='text']
+{
+    border:none;
+    offset: none;
+    outline:none;
+    border-bottom: 2px solid #222222;
+}
+input[type='text']:focus
+{
+    border-bottom: 2px solid #ffc107;
+}
+textarea
+{
+    border-radius: 10px;
+    max-height: 500px;
+}
+@media screen and (max-width: 991px)
+{
+    #kategorije{
+        border-bottom: 2px solid #222222;
+    }
+}
+.icoSize{
+    font-size: 24px;
+}
+select {
+    max-width: 70%;
+    min-width: 30%;
+}
+table {
+    table-layout: fixed;
+    width: 100%;   
+}
+table tr
+{
+    max-width: 50%;
+    min-width: 50%;
+}
+.sirina100{
+    max-width: 60%;
+}

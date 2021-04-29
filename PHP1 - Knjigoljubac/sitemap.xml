@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>  http://knjigoljubac.epizy.com/knjigoljubac/index.php </loc>
+		<lastmod> 2020-04-01  </lastmod>
+		<changefreq> weekly </changefreq>
+		<priority> 1 </priority>
+	</url>
+	<url>
+		<loc>  http://knjigoljubac.epizy.com/knjigoljubac/pocetna.php  </loc>
+		<lastmod> 2020-04-01  </lastmod>
+		<changefreq> weekly </changefreq>
+		<priority> 1 </priority>
+	</url>
+    <url>
+		<loc>  http://knjigoljubac.epizy.com/knjigoljubac/prijava.php  </loc>
+		<lastmod> 2020-04-01  </lastmod>
+		<changefreq> yearly </changefreq>
+		<priority> 0.6 </priority>
+	</url>
+     <url>
+		<loc>  http://knjigoljubac.epizy.com/knjigoljubac/registracija.php  </loc>
+		<lastmod> 2020-04-01  </lastmod>
+		<changefreq> yearly </changefreq>
+		<priority> 0.6 </priority>
+	</url>
+       <url>
+		<loc>  http://knjigoljubac.epizy.com/knjigoljubac/anketa.php  </loc>
+		<lastmod> 2020-04-01 </lastmod>
+		<changefreq> yearly </changefreq>
+		<priority> 0.55 </priority>
+	</url>
+</urlset>
